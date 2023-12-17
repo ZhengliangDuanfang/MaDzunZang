@@ -1,0 +1,8 @@
+site_name: 马纯上的临时个人主页
+theme:
+  name: material
+nav: 
+- Courses: 
+  - 大学物理实验: 'courses/phylab-navigator.md' 
+  - 英美文学赏析: 'courses/appreciation-english=american-literature.md'
+- About: 'about.md'  
